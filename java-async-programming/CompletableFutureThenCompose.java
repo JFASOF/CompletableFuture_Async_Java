@@ -188,3 +188,4 @@ class Product {
         this.price = price;
     }
 }
+
